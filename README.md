@@ -13,7 +13,7 @@ I am:
 ```
 I love coding and learning everyday different stuff! My main goal is to become a Lead Senior someday.
 
-You can learn more about me in [my page](tomasglavina.github.io)!
+You can learn more about me in [my page](https://tomasglavina.github.io)!
 
 ### My favorite technologies are 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,c,cpp,java,react,sass,python,js,html,mongodb,postgres,mysql,bash&perline=4)](https://skillicons.dev)
