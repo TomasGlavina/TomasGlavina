@@ -1,6 +1,6 @@
 # Hello There!
 
-I am 
+I am:
 ```
 {
   name: 'Tomas Glavina',
@@ -16,16 +16,15 @@ I love coding and learning everyday different stuff! My main goal is to become a
 You can learn more about me in [my page](tomasglavina.github.io)!
 
 ### My favorite technologies are 
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,c,cpp,java,react,sass,python,js,html,mongodb,postgres,mysql,bash&perline=4)](https://skillicons.dev)
 - Java (OOP, Functional, Spring) 
 - Linux (Have been using ir as my daily driver for years)
-- C/C++
+- C/C++ (OS programming, Embedded Systems(Arduino))
 - AWS services
-- HTML/CSS/JS (React and Node)
-- DevOps (Mainly CI/CD)
-- Python
-- AI and ML (sklearn libraries)
+- HTML/CSS/JS (React, Node, Express)
+- DevOps (Mainly CI/CD, Docker)
+- Python(Django, AI and ML (sklearn libraries))
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,c,cpp,java,react,sass,python,js,html,mongodb,postgres,mysql,bash&perline=4)](https://skillicons.dev)
 
 ---
 ## New things I am learning
